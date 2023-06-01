@@ -3,4 +3,4 @@ ed-resolusi
 - membuat flatform 
 - membuat forum diskusi
 - membuat merch shop
-- berkolaborasi dengan lebih banyak expert
+- membuat search
