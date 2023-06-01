@@ -1,0 +1,4 @@
+ed-resolusi
+- konsisten coding setiap hari
+- membuat flatform 
+- membuat forum diskusi
